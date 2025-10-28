@@ -19,7 +19,7 @@ system**, and **basic cart management**.
     forms using localStorage for user data.\
 -   🎨 **Responsive Design** -- Fully responsive layout built with HTML
     and CSS.\
--   ⚙️ **Vanilla JavaScript** -- Handles interactivity like login
+-   ⚙️ **JavaScript** -- Handles interactivity like login
     validation, cart updates, and DOM manipulation.
 
 ------------------------------------------------------------------------
@@ -105,14 +105,13 @@ system**, and **basic cart management**.
 
 ## 📸 Screenshots
 
-(Add screenshots of your pages here --- Home, Login, Signup, Cart, etc.)
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
 
     Manikanta G\
-📧 Email: your-email@example.com\
+📧 Email: manikantag083@gmail.com\
 🌐 GitHub: [Manikanta-G21](https://github.com/manikanta-G21)
 
 ------------------------------------------------------------------------
